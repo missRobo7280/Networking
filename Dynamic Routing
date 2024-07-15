@@ -1,3 +1,9 @@
 Dynamic routing:
-It uses a routing protocol for creating a route for the data packets. Here the router automatically collect and store the dynamic route in the routing table.
+It uses a routing protocol for creating a route for the data packets. 
+Here the router automatically collect and store the dynamic route in the routing table.
+The administrator is not going to create a route for the data packet instead the network administrator will assign a routing protocol to all of these routers
+and this protocol will decide the best route for these data packets. 
+If any of the routers or links fail to work then the routing protocol is smart enough to find another alternative route.
+it minimizes the work pressure of the network administrator.
+And the users do not need to wait for long time for the link to go up.
 Dynamic routing makes the use of protocols like RIP, IGRP, EIGRP, OSPF, IS-IS
